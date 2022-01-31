@@ -1,13 +1,13 @@
-<pre><h1 align="center">Hi, <img src="https://github.com/Kartik-Khandelwal/Kartik-Khandelwal/hi.gif" width="40px" /> I'm Kartik Khandelwal</h1></pre>
+<h1 align="center">Hi, <img src="https://github.com/Kartik-Khandelwal/Kartik-Khandelwal/blob/main/hi.gif" width="40px" /> I'm Kartik Khandelwal</h1>
 
 
 <p align="center">
-  <a href="https://github.com/Kartik-Khandelwal?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&lines=Kaggle+2x+Expert;Deep+Learning+Specialized;Computer+Vision;Natural+Language+Processing;End+to+End+Projects"></a>
+  <a href="https://github.com/Kartik-Khandelwal"> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&lines=Kaggle+2x+Expert;Deep+Learning+Specialized;Computer+Vision;Natural+Language+Processing;Curious+about+AI"></a>
 </p>
 
 <p align="center">
-   <a href="https://github.com/Kartik-Khandelwal">
-    <img alt="Github" title="Github Profile" href="https://github.com/Kartik-Khandelwal" src="https://img.shields.io/badge/Github-Repositories-blue"></a>
+   <a href="https://github.com/Kartik-Khandelwal?tab=repositories">
+    <img alt="Github" title="Github Profile" href="https://github.com/Kartik-Khandelwal?tab=repositories" src="https://img.shields.io/badge/Github-Repositories-blue"></a>
 
   
   <a href="https://www.kaggle.com/kartik2khandelwal/code">
