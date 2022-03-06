@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Kartik-Khandelwal"> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&lines=Kaggle+2x+Expert;Online+Learning+Addict;Deep+Learning+Specialized;Computer+Vision;Natural+Language+Processing;Curious+about+AI"></a>
+  <a href="https://github.com/Kartik-Khandelwal"> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&lines=Kaggle+2x+Expert;Online+Learning+Addict;Deep+Learning+Specialized;Computer+Vision+Practitioner;Natural+Language+Processing;Curious+about+AI"></a>
 </p>
 
 <p align="center">
