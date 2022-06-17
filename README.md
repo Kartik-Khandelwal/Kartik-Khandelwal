@@ -1,4 +1,4 @@
-<h1 align="center">Hi, <img src="https://github.com/Kartik-Khandelwal/Kartik-Khandelwal/blob/main/hi.gif" width="40px" /> I'm Kartik Khandelwal</h1>
+<h1 width="100%" align="center">Hi, <img src="https://github.com/Kartik-Khandelwal/Kartik-Khandelwal/blob/main/hi.gif" height="40px" /> I'm Kartik Khandelwal</h1>
 
 
 <p align="center">
